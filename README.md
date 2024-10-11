@@ -6,6 +6,7 @@ Most code came from <https://github.com/disler/poc-realtime-ai-assistant> where 
 
 ```
 pip install -r requirements.txt
+python workflow.py
 ```
 
 For MacOS users, make sure to install Xcode and `brew install portaudio` so `PyAudio` can compile.
