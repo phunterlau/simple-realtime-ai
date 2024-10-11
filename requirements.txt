@@ -1,0 +1,7 @@
+openai
+websockets
+PyAudio
+python-dotenv
+pydantic
+asyncio
+numpy
